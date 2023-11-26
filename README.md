@@ -4,7 +4,7 @@ We are going to continue the configuration of the Active Directory from our last
 
 # Process
 
-First We need to create our machine, in this case, Windows Server 2019 64-bit, and click on the default configurations, we will add the ISO image once we start the server, before starting the server, click on Settings >  System > Processor and give it 4, this will stabilize the whole process. 
+First We need to create our machine, in this case, Windows Server 2019 64-bit, and click on the default configurations, we will add the ISO image once we start the server, before starting the server, click on Settings >  System > Processor and give it 4, this will make fast the whole process. 
 
 ![processor](https://github.com/Wfrestrepo/Active-Directory/assets/108705302/e81a1f92-798c-445b-8c2a-f44d4d675610)
 
